@@ -1,2 +1,2 @@
 # BAITHAK-CAFE
-This is the my FIRST website 
+This is the my FIRST website (work in progress)
